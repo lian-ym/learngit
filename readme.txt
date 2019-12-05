@@ -5,3 +5,4 @@ Git is free software distributed under the GPL
 dev分支上做修改
 你把我灌醉，你让我心碎
 master和feature1冲突后的修改
+分支管理策略——def
